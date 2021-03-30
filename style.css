@@ -1,15 +1,12 @@
-/*.rounded main-image{
-	float: left;
-	margin: 5px;
-}*/
 
 .col-md-4{
 	text-align: justify;
 }
 
 .col-md-12{
-	margin: 20px;
+	margin: 20px;	
 }
+
 .text-left{
 	/*position: absolute;*/
 	text-align: left;
@@ -34,9 +31,6 @@
 	margin:30px;
 }
 
-.my-4:break-after: {
-	margin: 10px;
-}
 
 .data-title{
 	text-align: center;
@@ -45,3 +39,36 @@
 .table-output{
 	margin: 50px;
 }
+
+.footer{
+	text-align: center;
+}
+
+.table-output{
+	border-collapse: collapse;
+
+}
+
+.navbar{
+	background-color:#66ffff;
+}
+
+.thumbnail {
+	width:42%;
+	height:22%;
+}
+
+.navbar-brand {
+	font-weight: bold;
+	color:#ffffff;
+}
+
+.secondImg {
+	width:10%:
+	height:20%;
+}
+
+.note{
+	margin:10px;
+}
+
